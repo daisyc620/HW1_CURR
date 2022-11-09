@@ -1,0 +1,7 @@
+datetime
+polygon
+sqlalchemy 
+pandas
+matplotlib
+numpy
+
